@@ -2,6 +2,6 @@
 Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 添加远程成功
-
+Creating a new branch is quick.
 
 
